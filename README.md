@@ -18,7 +18,6 @@ PCA played a pivotal role in identifying principal components that encapsulate t
 Applications of the Findings
 
 The insights gained from this project can be utilized in various practical applications:
-
 Real-time energy optimization: Adjusting energy usage dynamically based on predictive analytics.
 Peak load management: Strategically planning for high-demand periods to avoid system overloads.
 Resource allocation: Effectively distributing resources based on anticipated energy needs.
@@ -26,7 +25,6 @@ Resource allocation: Effectively distributing resources based on anticipated ene
 Future Directions
 
 Looking ahead, the project plans to explore several avenues for improvement:
-
 Integrating PCA with hybrid machine learning models to achieve even better prediction accuracy
 Incorporating real-time data from IoT devices to enable dynamic energy forecasting.
 Expanding research efforts to include energy usage patterns in industrial and transportation sectors, thereby broadening the impact of machine learning in sustainable energy management.
